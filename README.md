@@ -2,7 +2,10 @@
 <div>
 <div align="Center">
   <h2>Skills</h2>
-    <h3>GameDev</h3><h3>Programming</h3>
+  <div>
+    <h3>1</h3>
+    <h3>2</h3>
+  </div>
 </div>
   <div align="Center">
   <h3>Systems</h3>
