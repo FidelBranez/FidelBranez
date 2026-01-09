@@ -21,7 +21,7 @@
     
 | Programming | Software Tools |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=godot,vscodium,postgres"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=godot,vscode,postgres"/> |
 
 <div>
     
