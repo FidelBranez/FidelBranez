@@ -1,11 +1,11 @@
 ![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
 <div>
 <div align="Center">
-  <h2>Skills</h2>
-  <div>
-    <h3>1</h3>
-    <h3>2</h3>
-  </div>
+
+| Website | Programming |
+| ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+
 </div>
   <div align="Center">
   <h3>Systems</h3>
