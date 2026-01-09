@@ -1,12 +1,7 @@
 ![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
 <div>
-  <h2>Skill</h2>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css" />
-    </a>
-  </p>
-</div>
+| Systems | Programming | GameDev |
+
 <!--
 **FidelBranez/FidelBranez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
