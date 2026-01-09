@@ -1,6 +1,11 @@
 ![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
 <div>
-| Systems | Programming | GameDev |
+<div align="center">
+  <h2>Skills</h2>
+  <div>
+    
+  </div>
+</div>
 
 <!--
 **FidelBranez/FidelBranez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
