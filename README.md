@@ -3,7 +3,7 @@
 <div align="Center">
   <h2>Skills</h2>
   <div align="Center" name="GameDev">
-    <h3></h3>
+    <h3>GameDev</h3>
     
   </div>
 </div>
