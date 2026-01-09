@@ -1,8 +1,9 @@
 ![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
 <div>
-<div align="center">
+<div align="Center">
   <h2>Skills</h2>
-  <div>
+  <div align="Center" name="GameDev">
+    <h3></h3>
     
   </div>
 </div>
