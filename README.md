@@ -1,25 +1,6 @@
 ![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
-</p>
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<div> redes </div>
+[![Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
 
 <!--
 **FidelBranez/FidelBranez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
