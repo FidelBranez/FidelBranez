@@ -1,6 +1,10 @@
 ![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
 <div> redes </div>
-[![Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <!--
 **FidelBranez/FidelBranez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
