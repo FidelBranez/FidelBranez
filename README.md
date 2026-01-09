@@ -2,12 +2,8 @@
 
 <h1 align="Center">Skills</h1>
 <div style="display: flex; justify-content: center;">
-  <div>
     <h2>GameDev</h2>
     <img src="https://skillicons.dev/icons?i=godot">
-  </div>
-  <div>
     <h2>Programming</h2>
     <img src="https://skillicons.dev/icons?i=js,html,css">
-  </div>
 </div>
