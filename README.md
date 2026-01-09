@@ -2,10 +2,16 @@
 <div>
 <div align="Center">
   <h2>Skills</h2>
-  <div align="Center" name="GameDev">
+  <div align="Center">
     <h3>GameDev</h3>
-    
   </div>
+    <div align="Center">
+    <h3>Programming</h3>
+</div>
+
+</div>
+  <div align="Center">
+  <h3>Systems</h3>
 </div>
 
 <!--
