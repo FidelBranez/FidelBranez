@@ -1,4 +1,4 @@
-![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
+![alt README header](assets/header.png)
 <div align="Left">
     <a href="mailto:sonicowolf01@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></img>
