@@ -1,5 +1,9 @@
-![alt README header](assets/header2.png)
-<div align="Left">
+<div align="center">
+Hola 👋 soy Fidel <br>
+💻 Desarrollador de software y videojuegos
+</div>
+<br>
+<div align="center">
     <a href="mailto:sonicowolf01@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></img>
     </a>
@@ -11,16 +15,16 @@
     </a>
 </div>
 
-<h2 align="Center">Sobre mi</h2>
-<div align="left">
+<h2 align="center">Sobre mi</h2>
+<div align="center">
     <a>👨‍💻 Ingeniero informático interesado en el desarrollo de videojuegos.</a><br>
     <a>🎮 Enfocado en aprender y aplicar nuevas lógicas de programación a través de proyectos prácticos.</a><br>
     <a>📚 Siempre dispuesto a seguir aprendiendo y mejorar mis habilidades técnicas.</a><br>
     <a>🚀 Motivado por crecer y desarrollarme continuamente en el ámbito profesional.</a><br>
 </div>
 
-<h2 align="Center">Skills</h2>
-<div align="Center">
+<h2 align="center">Skills</h2>
+<div align="center">
     
 | Programming | Software Tools |
 | ------------- | ------------- |
